@@ -24,7 +24,7 @@ public class assignment13115 {
 				System.out.println("\nPIN ACCEPTED. YOU NOW HAVE ACCESS TO YOUR ACCOUNT.");
 			} else if ( tries >= maximumTries)
 				System.out.println("\nYOU HAVE RUN OUT OF ATTEMPTS. ACCOUNT LOCKED.");
-		keyboard.close();
+	     keyboard.close();
 	}
 }
 
